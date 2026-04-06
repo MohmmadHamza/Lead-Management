@@ -175,7 +175,7 @@ Possible enhancements for this project:
 Backend Developer specializing in **PHP, Laravel, REST APIs, and scalable web applications**
 
 GitHub
-https://github.com/MohmmadHamza/Lead-Management
+https://github.com/MohmmadHamza
 
 ---
 
